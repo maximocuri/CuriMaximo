@@ -110,7 +110,7 @@ a {
 }
 
 
-.container{
+.container {
   width: 100%;
   max-width: 1200px;
   height: 430px;
@@ -120,7 +120,7 @@ a {
   margin: auto;
 }
 
-.container .card{
+.container .card {
   width: 330px;
   height: 400px;
   border-radius: 8px;
@@ -132,28 +132,23 @@ a {
   cursor: pointer;
 }
 
-.container .card:hover{
+.container .card:hover {
   transform: translateY(-15px);
   box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
 }
 
-.container .card .imgtienda{
-width: 300px;
-height: 250px;
+.container .card .imgtienda {
+  width: 300px;
+  height: 250px;
 
 }
 
-.container .card h4{
+.container .card h4 {
   font-weight: 600;
 }
 
-.container .card p{
-padding: 0 1rem;
-font-size: 16px;
-font-weight: 300;
+.container .card p {
+  padding: 0 1rem;
+  font-size: 16px;
+  font-weight: 300;
 }
-
-
-
-
-
